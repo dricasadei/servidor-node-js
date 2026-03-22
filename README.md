@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - Instalar NPN
 - Conferir versão node: node -v
 - iniciar a construção do pacote
@@ -17,3 +18,7 @@
     - node server.js
 - conferir se o servidor está rodando, no terminal:
     - localhost:3333
+=======
+# servidor-node-js
+Estudando java script e node.
+>>>>>>> feb2a94f7b92a9dd3a387d8fdf2ea79e77647452
