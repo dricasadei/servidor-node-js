@@ -2,7 +2,7 @@
 const express = require("express")
 const router = express.Router() /* definindo constante para rotear caminho /mulher */
 const cors = require('cors') /* Acessando o pacote cors para permitir que a API seja acessada por outros domínios */
-app.use(cors()) /* Habilitando o uso do cors  que permite consumir essa api no front end */
+const cors = require('cors') /* Habilitando o uso do cors  que permite consumir essa api no front end */
 //importando conexao do banco de dados
 const conectaBancoDeDados = require('./bancoDeDados')
 conectaBancoDeDados() //chamando a funcao que conecta ao banco de dados 
