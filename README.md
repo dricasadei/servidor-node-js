@@ -1,4 +1,17 @@
-<<<<<<< HEAD
+# Objetivo do Projeto
+
+Desenvolver uma API utilizando nodejs que servisse como um mural de mulheres na área de tecnologia, então a API aceita as requisições para Adicionar, Deletar, Modificar os registros. 
+O desenvolvimento do frontend não foi feito durante o projeto, sendo disponilizado no GitHub da PrograMaria e salvo em meus projetos como [frontend_programaria](https://github.com/dricasadei/frontend_programaria/tree/master).
+
+## Ferramentas utilizadas
+
+- Para o banco de dados foi utilizado o [MongoDB Cloud](https://cloud.mongodb.com/).
+- Para o deploy do backend foi utilizado o [Render](https://render.com/)
+- Para o deploy do frontend foi utilizado o [Vercel](https://vercel.com/)
+- Para testes do backend foi utilizado o [Insomnia](https://insomnia.rest/download)
+
+## Passo a Passo instalações iniciais
+
 - Instalar NPN
 - Conferir versão node: node -v
 - iniciar a construção do pacote
@@ -18,7 +31,3 @@
     - node server.js
 - conferir se o servidor está rodando, no terminal:
     - localhost:3333
-=======
-# servidor-node-js
-Estudando java script e node.
->>>>>>> feb2a94f7b92a9dd3a387d8fdf2ea79e77647452
